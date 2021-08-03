@@ -1,2 +1,3 @@
 # tapas-clarin
-descarga de archivos
+Version 1
+Descarga de archivos por consola
